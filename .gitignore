@@ -1,0 +1,17 @@
+__pycache__
+.idea
+*.pyc
+*.orig
+*.iml
+*.cmd
+*.db
+.Spotlight-V100
+.Trashes
+vscode
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+env
+venv
+
